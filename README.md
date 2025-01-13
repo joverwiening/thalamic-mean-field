@@ -1,6 +1,6 @@
 # Thalamic-mean-field
 
-The numerical codes for simulating a thalamic spiking network and mean-field as used in the paper ['A Multi-scale study of Thalamic Responsiveness'](https://doi.org/10.1371/journal.pcbi.1012262) are represented here. Two populations of thalamocortical relay neurons (TC) and thalamic reticular neurons (RE) are simulated. Two paramater sets are initiated corresponding to the 'awake' and 'sleep' states defined via the concentration of the neuromodulator Acetycholine (ACh) in the thalamus (see paper for more detail).
+The numerical codes for simulating a thalamic spiking network and mean-field as used in the paper ['A multi-scale study of thalamic responsiveness'](https://doi.org/10.1371/journal.pcbi.1012262) are represented here. Two populations of thalamocortical relay neurons (TC) and thalamic reticular neurons (RE) are simulated. Two paramater sets are initiated corresponding to the 'awake' and 'sleep' states defined via the concentration of the neuromodulator Acetycholine (ACh) in the thalamus (see paper for more detail).
 
 The files for simulating spiking network and mean-field respectively are: __TNetwork.py__, __MF_sctipt.py__.
 
